@@ -1,0 +1,14 @@
+# Python venv
+venv/
+chap10/venv/
+
+# Node modules
+node_modules/
+chap10/frontend/node_modules/
+
+# PyInstaller build output
+chap10/dist/
+chap10/build/
+
+# React dist output
+chap10/frontend/dist/
